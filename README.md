@@ -26,8 +26,7 @@ We have included a requirement file to assist you install all dependencies. To i
 Despite the fact that you will install these packages, there are a higher likelihood of facing the following technical challenges;
 1. Network connection error
 2. Sometimes the application takes a longer time to generate the shortest path or doesn't show the path after inserting your data.
-    To solve that issue, ensure you read the information on the application  page to ensure you are doing it right and reload the app and try again
-3. 
+    To solve that issue, ensure you read the information on the application  page to ensure you are doing it right and reload the app and try again.
 
 
 After installing these packages, you will need to launch anaconda prompt to run and run the command below
