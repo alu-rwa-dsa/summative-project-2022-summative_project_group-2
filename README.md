@@ -37,3 +37,5 @@ After installing these packages, you will need to launch anaconda prompt to run 
 The application is beneficiary to the telecommunication companies and their customers because
 the telecommunication companies will be able to identify the shortest and the cheapest path for 
 data transmission. Therefore, customers will be able to access quality services.
+
+Link to video recording: [https://drive.google.com/file/d/1Hw6sKd8fVBxblsX1T8So9OPR1UAYVsoB/view?usp=sharing](https://drive.google.com/file/d/1Hw6sKd8fVBxblsX1T8So9OPR1UAYVsoB/view?usp=sharing)
