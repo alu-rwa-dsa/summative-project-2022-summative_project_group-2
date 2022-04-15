@@ -1,6 +1,7 @@
 # Authors and Contributors to the project
 
 The contributors to the successful implementation of the project are;
+
 1. Beauty Ikudehinbu: Project proposal writing and implementing the code to solve the problem
 
 
@@ -10,9 +11,9 @@ The contributors to the successful implementation of the project are;
 3. Brighton Mboya: Project proposal writing and assisting in implementing the code(proposed solution)
 
 
-4. Diane Uwiduhaye: Project proposal writing and assisting in implementing the code(proposed solution)
+4. Diane Uwiduhaye: Project proposal writing
 
 
-5. Elisee Ishimwe:Assisted in writing the project proposal
+5. Elisee Ishimwe: Project proposal writing
 
 
