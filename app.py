@@ -170,6 +170,8 @@ try:
                     # After the user is done with the code, truncate the file so the user can have a new
                     # file whenever they want to perform another operation
 
+
+                    # uncomment this
                     # f = open("Book1.csv", 'r+')
                     # f.seek(23)
                     # f.truncate()
