@@ -2,7 +2,7 @@
 
 The contributors to the successful implementation of the project are;
 
-1. Beauty Ikudehinbu: Project proposal writing and implementing the code to solve the problem
+1. Beauty Ikudehinbu abimbolaikus@gmail.com
 
 
 2. Irene Busah: Project proposal writing and assisting in implementing the code(proposed solution)
