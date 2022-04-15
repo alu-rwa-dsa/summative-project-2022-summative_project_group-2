@@ -207,12 +207,13 @@ try:
                     """
                     )
                     st.subheader("Below is a step by step explanation on how this app works.")
-                    st.write("* Although this app run concurrently, your choice of data input will run immediately after"
+                    st.write("* Although this app run concurrently, your choice of data input will run immediately "
+                             "after "
                              "upload\n"
                              "* Name your file as 'Book1.csv'\n"
                              "* As soon as you follow the above step, your data will be uploaded and loaded\n"
                              "* 'Your Data' segment in the right column is current not displaying anything but it would"
-                             "as soon as you upload your data\n"
+                             " as soon as you upload your data\n"
                              "* N.B: Data in the criteria section are pre-defined, set it according to your data\n"
                              "* The below format is how your data should be\n")
                     st.image(image)

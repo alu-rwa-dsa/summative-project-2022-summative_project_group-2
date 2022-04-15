@@ -27,6 +27,8 @@ Despite the fact that you will install these packages, there are a higher likeli
 1. Network connection error
 2. Sometimes the application takes a longer time to generate the shortest path or doesn't show the path after inserting your data.
     To solve that issue, ensure you read the information on the application  page to ensure you are doing it right and reload the app and try again.
+    Also, if you are uploading a csv file, ensure it has your source nodes, destination nodes and the cost. Before you upload the csv file or insert the node manually, ensure you
+    have set your weight, source node and destination on the application(far right).
 
 
 After installing these packages, you will need to launch anaconda prompt to run and run the command below
@@ -42,4 +44,4 @@ data transmission. Therefore, customers will be able to access quality services.
 
 Link to video recording: [https://drive.google.com/file/d/1Hw6sKd8fVBxblsX1T8So9OPR1UAYVsoB/view?usp=sharing](https://drive.google.com/file/d/1Hw6sKd8fVBxblsX1T8So9OPR1UAYVsoB/view?usp=sharing)
 
-* Application workthrough video: https://www.loom.com/share/cba4cd512f624311bd2eafe18634147f 
+Application workthrough video: https://www.loom.com/share/cba4cd512f624311bd2eafe18634147f 
