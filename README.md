@@ -41,3 +41,4 @@ data transmission. Therefore, customers will be able to access quality services.
 # N.B The file that is to be uploaded is included in the upload file for convinences
 
 Link to video recording: [https://drive.google.com/file/d/1Hw6sKd8fVBxblsX1T8So9OPR1UAYVsoB/view?usp=sharing](https://drive.google.com/file/d/1Hw6sKd8fVBxblsX1T8So9OPR1UAYVsoB/view?usp=sharing)
+Application workthrough video: https://www.loom.com/share/cba4cd512f624311bd2eafe18634147f 
