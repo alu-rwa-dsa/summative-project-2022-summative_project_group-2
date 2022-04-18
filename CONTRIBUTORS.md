@@ -15,5 +15,3 @@ The contributors to the successful implementation of the project are;
 
 
 5. Elisee Ishimwe: Project proposal writing
-
-
